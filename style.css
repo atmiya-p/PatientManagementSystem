@@ -1,0 +1,31 @@
+body {
+    background-color:floralwhite;
+    padding: 10px 30px;
+}
+
+p {
+    color: #2d545e;
+    font-size: 24px;
+    font-family: monospace;
+    
+}
+
+h1 {
+    color: white;
+    background-color: #12343b;
+    border: 6px solid #100f2b;
+    font-size: 40px;
+    font-family: cursive;
+    padding: 20px 0;
+}
+
+.button-group button {
+    padding: 10px 30px;
+    margin: 8px;
+    background-color: #12343b;
+    color: white;
+    border: none;
+    font-size: 16px;
+    font-family:monospace;
+    cursor: pointer;
+}
